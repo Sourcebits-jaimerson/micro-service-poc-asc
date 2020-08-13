@@ -9,11 +9,11 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.prctice.ms</groupId>
-	<artifactId>movie-catalog-service</artifactId>
+	<groupId>poc.microservices</groupId>
+	<artifactId>poc-micro-service-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movie-catalog-service</name>
-	<description>Demo project for Spring Boot</description>
+	<name>poc-micro-service-1</name>
+	<description>POC project for micr services 1</description>
 
 	<properties>
 		<java.version>1.8</java.version>

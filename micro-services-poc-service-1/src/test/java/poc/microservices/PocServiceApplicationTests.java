@@ -1,10 +1,10 @@
-package com.prctice.ms.moviecatalogservice;
+package poc.microservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MovieCatalogServiceApplicationTests {
+class PocServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
